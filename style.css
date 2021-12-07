@@ -369,9 +369,8 @@ header .navbar a:hover{
   font-size: 20px;
   text-align: center;
   color: black;
-  font-weight: bolder;
   border-top-right-radius: 0rem;
-  font-family: 'Spartan', sans-serif;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .aboutUs .box-container .box img{
   height: 50rem;
