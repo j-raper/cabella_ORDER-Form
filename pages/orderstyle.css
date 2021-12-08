@@ -10,13 +10,12 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    
-    background: #FFC4E1;
+    background:beige;
 }
 .container{
     max-width: 1050px;
     width: 100%;
-    background: #F4BEEE;
+    background: pink;
     border-radius: 12px;
     margin: 0 20 px;
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.15);
@@ -37,7 +36,7 @@ body{
 .content .topic{
     font-size: 25px;
     font-weight: 500;
-    color:#B000B9;
+    color:#B91646;
     font-family: 'Pacifico', cursive;}
 .content form{
     width: 40%;
@@ -64,7 +63,7 @@ body{
 .content .input-box input:focus,
 .content .input-box input:valid{
     border-color: #420516;
-    background-color: #F4BEEE;
+    background-color: pink;
 }
 .content .input-box label{
     position: absolute;
@@ -82,7 +81,7 @@ body{
     left: 12px;
     color: #420516;
     display: 14px;
-    background: #F4BEEE;
+    background: pink;
     font-weight: bolder;
 }
 .content .message-box{
@@ -112,7 +111,7 @@ textarea::placeholder{
 .content .message-box textarea:focus,
 .content .message-box textarea:valid{
     border-color: #420516;
-    background-color: #F4BEEE;
+    background-color: pink;
 }
 .content .message-box label{
     position: absolute;
@@ -131,7 +130,7 @@ textarea::placeholder{
     color: #420516;
     display: 14px;
     font-weight: bolder;
-    background: #F4BEEE;
+    background: pink;
     -webkit-transition: all 0.125s ease;
     transition: all 0.125s ease;
 
@@ -142,11 +141,11 @@ textarea::placeholder{
     font-size: 18px;
     font-weight: 500;
     color: #fff;
-    background: #B000B9;
+    background: #B91646;
     cursor: pointer;
     transition: all 0.3s ease;
     letter-spacing: 1px;
-    border-color: #B000B9;
+    border-color: #B91646;
 
 }
 .content .input-box input[type="submit"]:hover{
